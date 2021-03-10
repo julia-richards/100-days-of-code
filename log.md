@@ -9,3 +9,14 @@
 
 **Link(s) to work**
 1. [File Tree Directory](https://github.com/julia-richards/file-tree-explorer)
+
+
+
+### Day 1: March 9, Tuesday
+
+**Today's Progress**: Complete basic bar graph visulization in react, conditionally styling be a threshold filter.
+
+**Thoughts** I need to practice coding in a repl, had a lot of syntax errors.
+
+**Link(s) to work**
+1. No link
