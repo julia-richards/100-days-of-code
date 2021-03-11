@@ -12,7 +12,7 @@
 
 
 
-### Day 1: March 9, Tuesday
+### Day 2: March 9, Tuesday
 
 **Today's Progress**: Complete basic bar graph visulization in react, conditionally styling be a threshold filter.
 
@@ -20,3 +20,12 @@
 
 **Link(s) to work**
 1. No link
+
+### Day 3: March 10, Wednesday
+
+**Today's Progress**: Completed vanilla JS drumkit with Wes Bos.
+
+**Thoughts** So much easier now that I actully know JS, defintely haven't written vanilla in a minute.
+
+**Link(s) to work**
+1. [JS Drumkit](https://github.com/julia-richards/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
